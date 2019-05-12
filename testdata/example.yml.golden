@@ -1,0 +1,9 @@
+state: active
+user:
+  email: firstname.surname@example.com
+  first_name: Firstname
+  organisation: some_county_council_unitary
+  second_name: Surname
+  shortcode: n_a
+  team: unknown
+  username: firstname.surname
